@@ -1,1 +1,2 @@
 ![equation](https://latex.codecogs.com/gif.latex?%24%24%20%5Cbegin%7Beqnarray*%7D%20min%5C%20f%28x%29%5C%20%26%20%26st%5C%20x%5C%20%5Cin%20%5C%20D%20%5C%20%26%20%26%5Ctext%7B%20where%20D%20%2C%20f%20are%20convex%7D%20%5Cend%7Beqnarray*%7D%20%24%24)
+![irene](https://latex.codecogs.com/gif.latex?%5Cdpi%7B120%7D%20%5Cbg_white%20%24%24%24%5Cbegin%7Beqnarray*%7D%20min%5C%20f%28x%29%5C%20%26%20%26st%5C%20x%5C%20%5Cin%20%5C%20D%20%5C%20%26%20%26%5Ctext%7B%20where%20D%20%2C%20f%20are%20convex%7D%20%5Cend%7Beqnarray*%7D%20%24%24%24)
